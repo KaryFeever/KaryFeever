@@ -1,5 +1,14 @@
 ### Hello everyone, I'm Maksim, also known as @KaryFeever 👋
-
+### About me 🦦
+- I'm a student of the BUT FIT 👨🏻‍🎓
+- Currently I'm learning everything 🤓
+- My hobbies and interests:
+- - Programming 🤖
+- - Reading 📖
+- - Video games 👾
+- - Cooking 👨🏻‍🍳
+- - Watching movies and series 🍿
+- - Listening to music 🎧
 <!--
 **KaryFeever/KaryFeever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
